@@ -1,6 +1,14 @@
 # CRM ( Customer Relationship Management) Application for SMBs
 A quick CRM application I developed for Deca.
 
+# Product Live Demo
+<img width="231" alt="IMG_2982" src="https://github.com/user-attachments/assets/9187274f-aced-4ff6-99c6-1f445965b843" />
+
+OR 
+
+Click on the following URL:
+https://deca-crm-from-gaurang.streamlit.app/
+
 # How to setup and run?
 ## On AWS Cloud 
 
