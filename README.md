@@ -9,6 +9,12 @@ OR
 Click on the following URL:
 https://deca-crm-from-gaurang.streamlit.app/
 
+# Achievements
+
+Won district level DECA award for Solo.
+![75850069084__1DBF50B1-0E83-4D91-9AB9-E83A2749E1C9](https://github.com/user-attachments/assets/f54a42b2-7aed-44fc-a095-3daff2401bdc)
+
+
 # How to setup and run?
 ## On AWS Cloud 
 
